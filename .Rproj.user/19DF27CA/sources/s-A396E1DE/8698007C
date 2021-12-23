@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1640031708290.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1553147775",
+    "id" : "8698007C",
+    "lastKnownWriteTime" : 1640282018,
+    "last_content_update" : 1640282018396,
+    "path" : "~/Documents/Claire_website/cv.Rmd",
+    "project_path" : "cv.Rmd",
+    "properties" : {
+        "cursorPosition" : "11,3",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

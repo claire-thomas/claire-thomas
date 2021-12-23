@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1640025250044.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3442480860",
+    "id" : "2CE13547",
+    "lastKnownWriteTime" : 1640277720,
+    "last_content_update" : 1640277720761,
+    "path" : "~/Documents/Claire_website/styles.css",
+    "project_path" : "styles.css",
+    "properties" : {
+        "cursorPosition" : "3,15",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}

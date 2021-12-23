@@ -1,0 +1,17 @@
+---
+output: 
+  html_document:
+    includes:
+      in_header: "img/header.html"
+---
+
+```{r, echo=FALSE}
+htmltools::img(src = knitr::image_uri(f = "img/logo2.png"), 
+               alt = 'logo', 
+               style = 'position:absolute; top:1; right:0; padding:10px;height:100px;width:100px')
+```
+
+
+```{r out.height = "1000px", out.width='900px', echo=F}
+knitr::include_graphics("./embed/CThomas_CV_Dec20_2021.pdf")
+```
