@@ -8,5 +8,5 @@ output:
 
 
 ```{r out.height = "1000px", out.width='900px', echo=F}
-knitr::include_graphics("./embed/CThomas_CV_Dec20_2021.pdf")
+knitr::include_graphics("./embed/CThomas_CV_Feb5_2022.pdf")
 ```
