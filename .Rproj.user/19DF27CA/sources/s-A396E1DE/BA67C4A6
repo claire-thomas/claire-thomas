@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1640285260478.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BA67C4A6",
+    "lastKnownWriteTime" : 1644077993,
+    "last_content_update" : 1644077993105,
+    "path" : "~/Documents/Claire_website/contact.Rmd",
+    "project_path" : "contact.Rmd",
+    "properties" : {
+        "cursorPosition" : "26,10",
+        "scrollLine" : "24"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,12 @@
+---
+output: 
+  html_document:
+    includes:
+      in_header: "img/header.html"
+---
+
+
+
+```{r out.height = "1000px", out.width='900px', echo=F}
+knitr::include_graphics("./embed/CThomas_CV_Dec20_2021.pdf")
+```
