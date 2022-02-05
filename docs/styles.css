@@ -1,0 +1,55 @@
+/* Whole document: */
+body{
+  font-family: Georgia;
+  font-size: 13pt;
+}
+/* Headers */
+h1,h2,h3,h4,h5,h6{
+  font-size: 16pt;
+   padding-top: 0;
+   margin-top: 0;
+}
+.footer{font-size: 10pt;}
+
+  #header.fluid-row::before {
+   content: "";
+   height: 150px;
+   width: 150px;
+   float: right;
+   background-image: url("img/logo2.png");
+   background-size: contain;
+   background-position: center center;
+   background-repeat: no-repeat;
+ }
+
+
+a:link {
+  color: Mediumslateblue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: Mediumslateblue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: Mediumslateblue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: Mediumslateblue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a[href^="mailto"] { color: Mediumslateblue; }
+div.ex1 {
+  width:600px;
+  margin: auto;
+}
+
+
