@@ -8,13 +8,10 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
 ```
 
-```{r, echo=FALSE}
-htmltools::img(src = knitr::image_uri(f = "img/logo2.png"), 
-               alt = 'logo', 
-               style = 'position:absolute; top:1; right:0; padding:10px;height:100px;width:100px')
-```
+
 
 
 
@@ -31,33 +28,30 @@ htmltools::img(src = knitr::image_uri(f = "img/logo2.png"),
 </div>
 
 
-
-Claire, add in logo thing I made to website. Also get hyperlinks to linkedin , github, twitter, etc out of the footer and put them in the header. change font of highlighted text? 
-
 <div class = "row">
   
-<div class = "col-md-6">
-  <img src="img/me_photo.png" alt="Photo of me" style="height:500px;">
+<div class = "col-md-5">
+<center>
+  <img src="img/Claire-34.jpg" alt="Photo of me" style="height:500px;">
 </div>
-<div class = "col-md-6">
-<br><br>
 
-Seriously, I am happy you came to visit. I love building things that people want to look at even if they only stop by for a minute or two. 
+<div class = "col-md-7 ex1">
 
-#### Want to make your own Website?
+<center>
+</br>
+<strong>Welcome!</strong>
 
-It's easier than you'd think. I love teaching others too, so if you're still with me I can show you how to make your own website that you can put anything from blogs to links to other projects to just embedded apps and videos.
+Claire is a fourth-year PhD student in the Department of Epidemiology at University of Pittsburgh. Her research focuses on molecular and genetic risk factors in field of cancer epidemiology. Her primary advisor is [Dr. Jian-Min Yuan](https://publichealth.pitt.edu/home/directory/jian-min-yuan). She received her BS and MPH from Boston University before moving to Pittsburgh. Her dissertation work involves molecular exposures such as bile acids and cytokines as well as a polygenic risk score for non-alcoholic fatty liver disease in association with hepatocellular carcinoma risk. Her goal is to become an academic researcher in molecular and genetic epidemiology of cancer and identify biomarkers to improve risk stratification and early detection of cancer. 
+</br>
+</br>
+Stay tuned for her next steps after her dissertation defense in April!  
 
-All you have to do is follow one chapter of Yihui Xie's excellent documentation in the R Markdown Definitive guide here: https://bookdown.org/yihui/rmarkdown/websites.html
-
-Or if you prefer pithy commentary, feel free to follow the tutorial on my Medium article (MARSHALL DON'T FORGET TO WRITE THE MEDIUM ARTICLE AAARGG)
-
-If you'd like to clone my [repo](https://github.com/mpkrass7/mk_website) as an example go right ahead!
-
-### About me
-I'm a Pythonista, R Pirate, Machine Learning Enthusiast, SQL Monkey, and Data Nerd. I'm also an expert with some BI tools like Tableau and Alteryx but I tell everyone I hate using them because I think coding is more fun.
 
 
 </div>
 </div>
+
+
+
+
 
